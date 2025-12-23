@@ -12,5 +12,4 @@ How many farmlands you have now affects animal fertility rates.
         ];
 
 # Dependencies
-cor_api
 [cor_api](https://github.com/njakstudio/cor_api.git)
